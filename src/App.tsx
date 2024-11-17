@@ -3,8 +3,8 @@ function App() {
 
   return (
     <>
-      <div className='text-red-500'>
-        hello
+      <div className='text-red-500 bg-black'>
+        hello mother 
       </div>
     </>
   )
